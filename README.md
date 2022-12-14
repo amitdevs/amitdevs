@@ -15,6 +15,7 @@
 
 - 📄 Know about my experiences [https://aimdev.com](https://aimdev.com)
 
+🚀 <h3 align="left">About Me</h3>
 <p align="left"> I have handled a variety of digital projects for clients around the world, from small startup websites to large, complex e-commerce platforms. In addition to website development, I also specialize in search engine optimization, online marketing and brand promotion. No matter what your goal is, I will help you achieve it. As a web expert, I provide a wide range of web-related services, from designing and building new websites (including hosting solutions) to reviewing and upgrading existing websites; ensuring that they look pixel-perfect on all devices and screen sizes.
 
 
